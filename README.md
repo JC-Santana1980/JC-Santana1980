@@ -1,0 +1,35 @@
+PYTHON, HTML, CSS, FIGMA, BOOTSTRAP, GIT,
+
+
+<h2 align="center">👨‍💻 seu nome</h2>
+<p align="center">
+Desenvolvedor Fullstack
+</p>
+
+---
+
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,figma,bootstrap,git,mysql,java" />
+</p>
+
+---
+
+### 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecsousa2000&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipecsousa2000&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecsousa2000&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar!
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-carvalho-a6ab54193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
