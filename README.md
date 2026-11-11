@@ -1,9 +1,9 @@
 PYTHON, HTML, CSS, FIGMA, BOOTSTRAP, GIT,
 
 
-<h2 align="center">👨‍💻 seu nome</h2>
+<h2 align="center">👨‍💻 Júlio Cesar de Lima Santana</h2>
 <p align="center">
-Desenvolvedor Fullstack
+Estudante Desenvolvedor Fullstack
 </p>
 
 ---
